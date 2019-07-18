@@ -1,0 +1,1 @@
+{"pageContext":{"isCreatedByStatefulCreatePages":true,"frontmatter":{"title":"vue hook API 可能存在的问题","date":"2019-06-24","cover":"http://www.getgametackle.com.au/wp-content/uploads/2016/06/MEAT-HOOK-D-STYLE.png","description":"Vue 作者前几天发布了一个关于 vue3 的 RFC，其内容主要描述来函数式组件以及 hook API 的使用，而这个却引发来社区的激烈讨论，其中不乏批评之声，那么我们来看看这个 API 到底有什么独特之处","tags":["vue"]}}}

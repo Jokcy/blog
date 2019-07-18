@@ -1,0 +1,1 @@
+{"pageContext":{"isCreatedByStatefulCreatePages":true,"frontmatter":{"title":"为什么你应该放弃React老的Context API用新的Context API","cover":"https://user-gold-cdn.xitu.io/2018/9/25/1661089d06718faf?w=2524&h=866&f=png&s=106307","description":"新的 React Context API 是官方的正式定稿 Context API、他解决来老的 Context API 不是稳定版的问题，同时他还很大程度上解决了老的 Context API 的性能问题...","date":"2018-10-2","tags":["react"]}}}

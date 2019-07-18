@@ -1,0 +1,1 @@
+{"pageContext":{"isCreatedByStatefulCreatePages":true,"frontmatter":{"title":"为什么react-redux没有更新hooks API","cover":"http://ww1.sinaimg.cn/large/a90af92bly1g0qi36cwv4j20yn077aar.jpg","date":"2019-02-27","description":"React Hooks 正式发布之后，正常来说社区的大部分类库都会及时跟进，但是为什么到现在 React-Redux 到目前都没有更新 Hooks 的 API 呢？因为这里存在着一个 Context API 的性能问题...","tags":["react","redux"]}}}
